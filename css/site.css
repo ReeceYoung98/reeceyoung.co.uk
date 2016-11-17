@@ -1,0 +1,27 @@
+.outer {
+	display: table;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.inner {
+	margin-left: auto;
+	margin-right: auto;
+}
+.img {
+	-webkit-border-radius: 127px;
+	-moz-border-radius: 127px;
+	border-radius: 127px;
+	width: 200px;
+	float: left;
+	padding: 0 20px 0 0;
+}
+.about-me {
+	width: 80%;
+}

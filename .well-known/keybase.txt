@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/reeceyoung98
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.reeceyoung.co.uk
+  * I am reeceyoung98 (https://keybase.io/reeceyoung98) on keybase.
+  * I have a public key with fingerprint E0A9 3735 EF61 9689 99BE  D8F6 2C18 BF6C 01A6 C2C0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101285d434fdc4aa493a5b7d8ea670c342a346fb6c9093e717386c58bedcef2d9500a",
+            "fingerprint": "e0a93735ef61968999bed8f62c18bf6c01a6c2c0",
+            "host": "keybase.io",
+            "key_id": "2c18bf6c01a6c2c0",
+            "kid": "0101285d434fdc4aa493a5b7d8ea670c342a346fb6c9093e717386c58bedcef2d9500a",
+            "uid": "b0713d50cfb2dda29a68dd69d3ef6f19",
+            "username": "reeceyoung98"
+        },
+        "service": {
+            "hostname": "www.reeceyoung.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478726625,
+    "expire_in": 157680000,
+    "prev": "baeb100c65acb258617befd43a71c012518e728e9b601aedfc419d82b8e0e319",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJbSFRBGMfXvESKkUhkPnQ50UNly7nOmbMlRdlaBGEYYpktc2bmrEe3
+c9azZ92WkCCxG2kXA+uhhy5UdtHMcjNDLLSgHrrgg/QQVERF0UPRgyjSnMXopcfm
+ZZiZ3///fd+fGcnP9OVmLDg/WDgynYcynj+6GPdVL+t4t5/TbZLkAvu5BpreaITQ
+mBtqMAkX4HiBF0SoEFmSDYJlhGRNQoquEkgRUHksySKSZGDoAGu8JlFVUCUIsAJ1
+SjA1RKIpPI+4Es4wrTB1oo5pucyW8kiTVEmhBhA0ADVNYzw0gIgFqBsA8wICWMQ8
+E9bZMU/BmtNRjPpNm92xQyjd3j/4/9x3PG2n86ogEYXHhi4SgkQNAUgI0IjEJjAE
+zQNj1LHQXspoh1JMk3bcCmuQay7h2EuTiakXrjfNDJVIJPx/ST+2/fEG5hN1bNfG
+doQRda4bDXgGbjKaVlA9NOMV0k2LsEiZoIk6MdO2uIDASOyanrkgq1AVARCVEo7u
+i5oODZkeoagA8mx5ZWiTNxiiusDzGCgI66ICgaDq1GCxIVVgqYqKAKkqQqrpgGVM
+iYFlQSNQ1CHlqZQePEYbLZsLsEouCjPLmBm2kBt3KNf8eHh3li8j15eTPcv7ar7c
+OfP+fEBybPY0R5d/DeatWhS811ZVXfy6LllWczjY26Z+aTxVMv7mZFn9xU9LIuv3
+BluNTaMfGzfmtWXczrJ/HStuGT+4p+pEvXUqNpZqHxoemERrjz7u0XtCK65dDQw9
+SE7dzy/YcGhucniB+U2erITxVMFAT+vpwb5+9K7qTFdVzY0iTklV9ApNCzvvVju1
+m8YKv996uaNyPGs0lRxp6XhyNrg90v3twItXPy48nTh3ZNdUjv9MdWlm/+rS64n8
+k5+7Ns8qfrg5UVu+tG/oUk1l6lmoK5z9PXOUDK7ZeeB46ZbujjuwrX5fhXT57U3t
+Q2dd+U9/S+3irV0btr2/4l/Zvm5tM54/UbQu8hseBUJw
+=aWwv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reeceyoung98
+
+==================================================================
